@@ -3,6 +3,8 @@ const prompt = require("prompt-sync")();
 const ROWS = 3;
 const COLS = 3;
 
+let myVar = "Lazaros";
+
 const SYMBOLS_COUNT = {
   A: 2,
   B: 4,
